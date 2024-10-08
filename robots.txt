@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://purstacea.github.io/sitemap.html.gz
+Sitemap: https://purstacea.github.io/app/sitemap.html.gz
+Sitemap: https://purstacea.github.io/assets/sitemap.html.gz
+Sitemap: https://purstacea.github.io/css/sitemap.html.gz
+Sitemap: https://purstacea.github.io/data/sitemap.html.gz
+Sitemap: https://purstacea.github.io/includes/sitemap.html.gz
+Sitemap: https://purstacea.github.io/item/sitemap.html.gz
+Sitemap: https://purstacea.github.io/src/sitemap.html.gz
